@@ -1,0 +1,19 @@
+[general]
+name=QgisFieldMapper
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+author=槐中路科科
+email=996517087@qq.com      
+description=将外部数据映射或追加到本身图层，可选择字段映射关系。
+about=这是一个QGIS插件，用于将外部矢量数据映射或追加到已有图层中。用户可以选择字段映射关系，支持多种矢量数据格式。
+version=1.0
+homepage=https://github.com/yourusername/QgisFieldMapper
+tracker=https://github.com/yourusername/QgisFieldMapper/issues
+repository=https://github.com/yourusername/QgisFieldMapper
+category=Vector
+icon=icon.png
+tags=vector,field,mapping,join,append
+changelog=1.0 - 初始版本发布
+experimental=False
+server=False
+hasProcessingProvider=False
